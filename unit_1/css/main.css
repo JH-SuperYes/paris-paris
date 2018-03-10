@@ -1,0 +1,19 @@
+
+
+body {
+
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 1.2em;
+	font-family: helvetica, sans-serif;
+
+	line-height: 1.6;
+	margin: 50px 100px 100px 100px;
+
+}
+h1 {
+	font-family: helvetica, sans-serif;
+	font-weight: lighter;
+	font:1.6em;	
+	
+}
